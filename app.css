@@ -1,0 +1,16 @@
+
+body {
+    background-color: #ada7a7;
+    color: #9f2b00;
+    text-align: center;
+}
+
+
+h1 {
+    padding-top: 3rem;
+}
+
+.clock {
+    font-size: 10rem;
+}
+
